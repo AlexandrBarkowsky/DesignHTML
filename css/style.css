@@ -121,3 +121,15 @@ header{
 	color:#58c93a;
 	border-bottom: 3px solid #58c93a;
 }
+main{
+	float:left;
+	background:#0C3;
+	width: 62.5%;
+	margin-top: 70px;
+}
+aside{
+	float: right;
+	background:#09F;
+	width: 28.3%;
+	margin-top:70px;
+}
