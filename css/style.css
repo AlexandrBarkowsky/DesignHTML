@@ -243,3 +243,32 @@ footer{
 	footer img{
 		margin-bottom:20px;
 	}
+@media screen and (max-weight:620px){
+	.logo{
+		float:none;
+		margin:10px auto; 
+		display:block;
+	}
+	.menu-top li a{
+		padding:10px 35px;
+	}
+}
+@media screen and (max-width:768px){
+	aside{
+		float:none;width:100%; margin-top:70px;
+	}
+	main{
+		float:none; width:100%; margin-top:30px;
+	}
+	article>header img{
+		width:100%;
+	}
+	.logo{
+	margin-top:20px;}
+	.menu-top li a{
+		padding:25px 35px;
+	}
+}
+
+
+
