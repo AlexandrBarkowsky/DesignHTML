@@ -186,4 +186,25 @@ aside{
 	.widget>nav{
 		margin: 0 0 0 20px;
 	}
+	.subscribe-input{
+		color:#b9b9b9;
+		font-size: 0.75em;
+		width:100%;
+		border: 1px solid #e1e0e0;
+		padding: 15px 50px 15px 20px;
+		box-sizing: border-box;/*И бордер и паддинг*/
+		position:absolute;
+		top:0;
+		left:0;
+	}
+	.subscrible{
+		position:relative;
+		width: 100%;
+		height: 48px;
+	}
+	.subscribe-image{
+		position:absolute;
+		right:20px;
+		top:12px;
+	}
 
