@@ -100,6 +100,10 @@ header{
 	margin:0 auto;
 	max-width:990px;
 }
+.content{
+	border-right:1px solid #e1e0e0;
+	border-left:1px solid #e1e0e0;
+}
 .logo{
 	float:left;
 	margin-top:45px;
@@ -181,6 +185,7 @@ aside{
 		font-size: 0.75em;
 		width:100%;
 		border: 1px solid #e1e0e0;
+		border-right:none;
 		padding: 15px 20px;
 	}
 	.widget>nav{
@@ -196,6 +201,7 @@ aside{
 		position:absolute;
 		top:0;
 		left:0;
+		border-right:none;
 	}
 	.subscrible{
 		position:relative;
