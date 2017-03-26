@@ -102,6 +102,7 @@ header{
 }
 .logo{
 	float:left;
+	margin-top:45px;
 }
 .menu-top{
 	float:right;
@@ -114,6 +115,7 @@ header{
 	color:#fff; text-decoration:none;
 	padding:50px 35px;
 	display:block;
+	border-bottom: 3px solid #292929;
 }
 .menu-top li a:hover{
 	color:#58c93a;
