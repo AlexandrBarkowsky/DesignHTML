@@ -212,6 +212,7 @@ aside{
 		font-size: 1.125em;
 		text-transform:uppercase;
 		font-weight:600;
+		padding:30px;
 	}
 		.pager a{
 			color:#818181;
