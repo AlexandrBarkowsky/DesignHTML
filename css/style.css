@@ -163,4 +163,17 @@ aside{
 	width: 28.3%;
 	margin-top:70px;
 }
+	.widget{
+		margin-bottom:50px;
+		
+	}
+	.widget h2{
+		text-transform: uppercase;
+		color: #6c6969;
+		background:#f8f8f8;
+		border-left: 3px solid #58c93a;
+		padding: 10px 20px;
+		font-weight: 600;
+		margin-bottom: 20px;
+	}
 
